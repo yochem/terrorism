@@ -3,6 +3,7 @@ html:
 
 clean:
 	@for f in *.ipynb; do \
+	    rm -v "$$f"; \
 	    rm -v "$$(basename $$f .ipynb).html"; \
 	done
 
