@@ -3,12 +3,13 @@
 This repository contains the Jupyter Notebook source code for the [data
 stories](https://yochem.github.io/terrorism-datavis). The source code consists
 of the `.ipynb` files, with all code included, and the `.html` pages generated
-from these notebook files.
+from these notebook files. The data can be found
+[here](https://www.kaggle.com/START-UMD/gtd).
 
-This project is for the [data visualisation
+This is a project for the UvA [data visualisation
 course](http://studiegids.uva.nl/xmlpages/page/2018-2019/zoek-vak/vak/63017).
 
-## Developing
+## Development
 After modifying the notebooks, clean the old html files:
 ```
 $ make clean
