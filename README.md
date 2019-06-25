@@ -1,7 +1,7 @@
 # Visualising terrorism in Europe
 
 This repository contains the Jupyter Notebook source code for the [data
-stories](https://yochem.github.io/terrorism-datavis). The source code consists
+stories](https://yochem.github.io/terrorism). The source code consists
 of the `.ipynb` files, with all code included, and the `.html` pages generated
 from these notebook files. The data can be found
 [here](https://www.kaggle.com/START-UMD/gtd).
@@ -28,4 +28,4 @@ $ git push origin master
 Code licensed under the MIT license, data license can be found on [the
 homepage](https://www.kaggle.com/START-UMD/gtd).
 
-https://github.com/yochem/terrorism-datavis
+https://github.com/yochem/terrorism
