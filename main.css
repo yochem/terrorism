@@ -1,0 +1,50 @@
+html, body, section, div {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+body {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+    line-height: 150%;
+    text-align: center;
+    text-shadow: 0 2px 2px #000;
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0 0 0.75rem 0;
+}
+
+.container {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+div {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    padding: 1rem;
+}
+
+.left-half {
+    background-image: url('https://www.worldatlas.com/upload/6a/a0/3f/terrorism.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.right-half {
+    background-image: url('https://media3.s-nbcnews.com/j/newscms/2017_22/2024476/692113726_58b5a7a5967c13714843e4f4cbf5f47d.nbcnews-ux-2880-1000.jpg');
+}
+
